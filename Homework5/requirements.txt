@@ -1,0 +1,9 @@
+﻿numpy
+pandas
+matplotlib
+seaborn
+scikit-learn==1.9.1
+xgboost==3.4.1
+joblib
+threadpoolctl
+notebook
